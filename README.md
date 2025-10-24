@@ -17,7 +17,7 @@ Each file covers a new concept I've learned.
 A collection of small, aesthetic Python games and programs built using what I’ve learned so far 🌼  
 | Project | Description | Skills Used |
 |:--|:--|:--|
-| 🎮 [Rock Paper Scissors]([07_logical_operators.py](https://github.com/zahara-robinson/Python-Study-Guild/blob/main/Mini%20projects/Rock_Paper_Scissors.py))| Play a cute terminal game where you challenge the computer using random choices! | `if/else`, `and`, `or`, `not`, `comparison`, `loops` |
+| 🎮 [Rock Paper Scissors](https://github.com/zahara-robinson/Python-Study-Guild/blob/5286a4f525b516d81d88c137b340b68c8c175dd2/Mini%20projects/Rock_Paper_Scissors.py) | Play a cute terminal game where you challenge the computer using random choices! | `if/else`, `and`, `or`, `not`, `comparison`, `loops` |
 
 ---
 
