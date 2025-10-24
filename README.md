@@ -1,7 +1,7 @@
 # 🩷 Python Study Guild
 
 Welcome to my pastel-coded journey through Python ~✨
-Each file cover a new concept I've learned. 
+Each file covers a new concept I've learned. 
 
 ## 🌸 Topics
 1. 🩷 [Print Statements](01_print_statements.py)
@@ -13,6 +13,13 @@ Each file cover a new concept I've learned.
 7. 💻💖 [Logical Operators](07_logical_operators.py)
 ---
 
+## 🎮 Mini Projects Gallery
+A collection of small, aesthetic Python games and programs built using what I’ve learned so far 🌼  
+| Project | Description | Skills Used |
+|:--|:--|:--|
+| 🎮 [Rock Paper Scissors](./MiniProjects/Rock_Paper_Scissors.py) | Play a cute terminal game where you challenge the computer using random choices! | `if/else`, `and`, `or`, `not`, `comparison`, `loops` |
+
+---
 
 
 ✨ *Goal:* Document every topic I master in Python while learning Computer Science fundamentals.
