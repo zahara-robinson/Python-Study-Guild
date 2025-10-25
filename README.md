@@ -11,6 +11,7 @@ Each file covers a new concept I've learned.
 5. 🩷🧮 [Arithmetic Operators](05_operators_arithmetic.py)
 6. 💗⚖️ [Comparison Operators](06_comparison_operators.py)
 7. 💻💖 [Logical Operators](07_logical_operators.py)
+8. 💗🪞 [Assignment Operators](08_assignment_operators.py) 
 ---
 
 ## 🎮 Mini Projects Gallery
